@@ -1,0 +1,7 @@
+base
+DBI
+RMySQL
+slidify
+knitr
+data.table
+reshape2
